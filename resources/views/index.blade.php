@@ -15,7 +15,7 @@
     </div>
 
      <div class="container mt-5">
-        <h2 class="mb-4 text-center">Select a Shop</h2>
+        <h2 class="mb-4 text-center">Grab Your Shopping Zone</h2>
         <div class="list-group">
             @foreach($shops as $shop)
                 <a href="{{ url('/shop/' . $shop->id) }}" class="list-group-item list-group-item-action">
