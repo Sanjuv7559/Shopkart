@@ -1,0 +1,19 @@
+.row.row-cols-1.row-cols-md-2.g-4 {
+    margin-left: 20%;
+}
+.heading {
+   
+    margin-top: -600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.d-flex.justify-content-end.admin {
+    margin-top: -800px;
+    margin-right: 40px;
+}
+
+.d-flex.justify-content-center.align-items-center.vh-100.bg-light.admin {
+    height: 80vh !important;
+}
